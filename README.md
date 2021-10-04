@@ -6,14 +6,7 @@
 
 ## I'm a Data Scientist
 
-- Creator of the [Python Engineer][youtube] YouTube channel 
-- I create free educational content about Python and Machine Learning
-- On my channel you find complete FREE courses about Python, PyTorch, TensorFlow, and much more
-- I also post articles on my [Website][website]
-- If you want to connet with more Python and ML enthusiasts you can join my [Discord server][discord]
-- For most tutorials the corresponding code is here on GitHub
-
-If you enjoy my content, I would be very happy if you [subscribe](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
+- C
 
 ---
 
@@ -21,7 +14,6 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=python-engineer&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=python-engineer&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/python_engineer
@@ -30,6 +22,7 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 [devto]: https://dev.to/python_engineer
 [instagram]: https://www.instagram.com/patloeber/
 [discord]: https://discord.gg/FHMg9tKFSN
+[linkedin]: https://www.linkedin.com/in/hemanshanand/
 
 ---
 
