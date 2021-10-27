@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Hemansh Anand</h1>
-<h3 align="center">git commit -m "Hello, I'm a Master's Student at University of Surrey"</h3>
+<h3 align="center">git commit -m "Hello, I'm a Data loving analytical thinker passionate about data science with a background in Computer Science and Economics."</h3>
 
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/Website-lightgrey?style=for-the-badge&logo=web&logoColor=white" />][website]
