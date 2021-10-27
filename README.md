@@ -20,7 +20,7 @@
 
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "All about GitHub!"</code> :grin:
+<code>git commit -m "Data Science"</code> :grin:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
