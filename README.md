@@ -14,7 +14,7 @@
 
 
 ### What are my featured projects:question::rocket:
-<code>Project1](link)</code>
+<code>[Project1](link)</code>
 <code>[Project2](link)</code>
 <code>[Project3](link)</code>    
 
